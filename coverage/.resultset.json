@@ -1,22 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/assbu/Desktop/RPG/spec/models/user_spec.rb": {
+      "C:/Users/assbu/Desktop/RPG/spec/models/location_spec.rb": {
         "lines": [
           1,
           null,
           1,
           2,
-          null,
           2,
           2,
-          null,
-          2,
-          2,
-          null,
-          2,
-          2,
-          null,
           null
         ]
       },
@@ -716,6 +708,15 @@
           null
         ]
       },
+      "C:/Users/assbu/Desktop/RPG/app/models/location.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "C:/Users/assbu/Desktop/RPG/app/models/page.rb": {
         "lines": [
           1,
@@ -726,10 +727,48 @@
         "lines": [
           1,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/RPG/spec/models/player_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/RPG/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          2,
+          2,
+          null,
+          2,
+          2,
+          null,
+          2,
+          2,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1616533386
+    "timestamp": 1616536955
   }
 }
