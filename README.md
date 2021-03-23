@@ -72,7 +72,7 @@
 ---
 ## Database Layout
 
-![Database Layout](/rpg_schema.PNG)
+![Database Layout](/public/images/rpg_schema.PNG)
 
 ---
 
