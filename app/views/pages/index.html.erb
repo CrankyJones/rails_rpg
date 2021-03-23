@@ -1,7 +1,6 @@
 
 <% if user_signed_in?  %>
-  <%= current_user.username %><br>
-  <%byebug%>
+  <p> Welcome, <%= current_user.username %>.</p><br>
   <%= button_to "Sign out", destroy_user_session_path, :method => :delete %>
 <% else %>
   <a href="/users/sign_in">sign-in</a>
