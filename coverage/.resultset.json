@@ -1,11 +1,12 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/assbu/Desktop/RPG/spec/models/location_spec.rb": {
+      "C:/Users/assbu/Desktop/RPG/spec/models/enemy_spec.rb": {
         "lines": [
           1,
           null,
           1,
+          2,
           2,
           2,
           2,
@@ -708,6 +709,16 @@
           null
         ]
       },
+      "C:/Users/assbu/Desktop/RPG/app/models/enemy.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "C:/Users/assbu/Desktop/RPG/app/models/location.rb": {
         "lines": [
           1,
@@ -732,6 +743,18 @@
           1,
           1,
           1,
+          1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/RPG/spec/models/location_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
           null
         ]
       },
@@ -769,6 +792,6 @@
         ]
       }
     },
-    "timestamp": 1616536955
+    "timestamp": 1616538667
   }
 }
