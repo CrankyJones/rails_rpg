@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   devise_for :users
 
-  resources :locations, only: %i[ create destroy new update ]
+  resources :locations
   resources :enemies, only: %i[ create destroy new update ]
 
   unauthenticated do

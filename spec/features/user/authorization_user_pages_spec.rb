@@ -21,6 +21,7 @@ context "authentication roles through user tiers" do
   end
 
   scenario "an authorized user set to admin should be able to view secured pages" do
+
     visit '/'
     fill_in 'user_email', with: 'adminjoe@test.com'
     fill_in 'user_password', with: '12345678'
@@ -31,4 +32,18 @@ context "authentication roles through user tiers" do
     expect(page).to have_content 'Site Administration'
 
   end
+
+  scenario "an authorized user set to admin should be able to view secured pages" do
+
+    visit '/'
+    fill_in 'user_email', with: 'averagejoe@test.com'
+    fill_in 'user_password', with: '12345678'
+    click_on 'Log in'
+    visit '/admin'
+
+    expect(page).to have_no_content 'averagejoe@test.com'
+    expect(page).to have_no_content 'Site Administration'
+
+  end
+
 end

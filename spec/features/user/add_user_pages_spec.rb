@@ -14,15 +14,19 @@ context "user sign-up process" do
   end
 
   scenario "the user should be able to sign up with valid information" do
+
     visit '/'
     click_on 'Sign up'
+
     fill_in 'user_username', with: 'FavoriteDog'
     fill_in 'user_email', with: 'dogs_best_day@gmail.com'
     fill_in 'user_password', with: '12345678'
     fill_in 'user_password_confirmation', with: '12345678'
     click_on 'Sign up'
+
     expect(page).to have_content 'Welcome! You have signed up successfully.'
     expect(page).to have_content 'Welcome, FavoriteDog.'
+
   end
 
 end
