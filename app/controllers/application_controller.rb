@@ -4,7 +4,8 @@ class ApplicationController < ActionController::Base
   before_action :authenticate_user!, except: %i[ index ]
 
   protected
+
   def configure_permitted_parameters
-    devise_parameter_sanitizer.permit(:sign_up, keys: %i[ username password email ])
+    devise_parameter_sanitizer.permit( :sign_up, keys: %i[ username password email ] )
   end
 end

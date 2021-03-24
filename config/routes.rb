@@ -19,6 +19,11 @@ Rails.application.routes.draw do
 
 end
 
+
+
+
+
+
 # bare bones
 
 # module ActionDispatch::Routing

@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/assbu/Desktop/RPG/spec/models/enemy_spec.rb": {
+      "C:/Users/assbu/Desktop/rpg/spec/models/enemy_spec.rb": {
         "lines": [
           1,
           null,
@@ -13,7 +13,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/spec/rails_helper.rb": {
+      "C:/Users/assbu/Desktop/rpg/spec/rails_helper.rb": {
         "lines": [
           1,
           null,
@@ -56,7 +56,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/environment.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -65,7 +65,7 @@
           1
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/application.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/application.rb": {
         "lines": [
           1,
           null,
@@ -102,7 +102,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/boot.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/boot.rb": {
         "lines": [
           1,
           null,
@@ -110,7 +110,7 @@
           1
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/environments/test.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -160,7 +160,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/application_controller_renderer.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -172,7 +172,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/assets.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -190,7 +190,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/backtrace_silencers.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -201,7 +201,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/content_security_policy.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/content_security_policy.rb": {
         "lines": [
           null,
           null,
@@ -230,7 +230,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/cookies_serializer.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -239,7 +239,7 @@
           1
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/devise.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/devise.rb": {
         "lines": [
           null,
           null,
@@ -554,7 +554,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/filter_parameter_logging.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -562,7 +562,7 @@
           1
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/inflections.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -582,7 +582,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/mime_types.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -590,7 +590,61 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/initializers/wrap_parameters.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/initializers/rails_admin.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -608,47 +662,81 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/config/routes.rb": {
+      "C:/Users/assbu/Desktop/rpg/config/routes.rb": {
         "lines": [
           1,
           null,
           1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/app/models/user.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
           null,
           1,
           null,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/models/user.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null
-        ]
-      },
-      "C:/Users/assbu/Desktop/RPG/app/models/application_record.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/controllers/application_controller.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/controllers/application_controller.rb": {
         "lines": [
+          1,
+          null,
           1,
           1,
           null,
@@ -660,21 +748,13 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/helpers/application_helper.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/channels/application_cable/channel.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "C:/Users/assbu/Desktop/RPG/app/channels/application_cable/connection.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/channels/application_cable/channel.rb": {
         "lines": [
           1,
           1,
@@ -682,7 +762,7 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/controllers/pages_controller.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/channels/application_cable/connection.rb": {
         "lines": [
           1,
           1,
@@ -690,55 +770,57 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/controllers/players_controller.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/controllers/enemies_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/app/controllers/locations_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/app/controllers/pages_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/app/controllers/players_controller.rb": {
         "lines": [
 
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/jobs/application_job.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/jobs/application_job.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/mailers/application_mailer.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/mailers/application_mailer.rb": {
         "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "C:/Users/assbu/Desktop/RPG/app/models/enemy.rb": {
-        "lines": [
-          1,
-          1,
           1,
           1,
           1,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/app/models/location.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/models/enemy.rb": {
         "lines": [
-          1,
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "C:/Users/assbu/Desktop/RPG/app/models/page.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "C:/Users/assbu/Desktop/RPG/app/models/player.rb": {
-        "lines": [
-          1,
-          1,
-          1,
           1,
           1,
           1,
@@ -747,18 +829,35 @@
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/spec/models/location_spec.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/models/location.rb": {
         "lines": [
           1,
-          null,
           1,
-          2,
-          2,
-          2,
+          1,
+          1,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/spec/models/player_spec.rb": {
+      "C:/Users/assbu/Desktop/rpg/app/models/page.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/app/models/player.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/spec/models/location_spec.rb": {
         "lines": [
           1,
           null,
@@ -766,13 +865,24 @@
           2,
           2,
           2,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/spec/models/player_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
           2,
           2,
           2,
           null
         ]
       },
-      "C:/Users/assbu/Desktop/RPG/spec/models/user_spec.rb": {
+      "C:/Users/assbu/Desktop/rpg/spec/models/user_spec.rb": {
         "lines": [
           1,
           null,
@@ -792,6 +902,6 @@
         ]
       }
     },
-    "timestamp": 1616538667
+    "timestamp": 1616616684
   }
 }
