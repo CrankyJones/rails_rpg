@@ -1,34 +1,33 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/assbu/Desktop/rpg/spec/features/user/add_user_pages_spec.rb": {
+      "C:/Users/assbu/Desktop/rpg/spec/features/location/index_location_pages_spec.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          1,
+          null,
           1,
           null,
           null,
-          1,
-          1,
-          1,
-          1,
+          null,
           null,
           null,
           1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
           null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -763,7 +762,7 @@
           1,
           null,
           1,
-          10,
+          12,
           null,
           null
         ]
@@ -809,6 +808,11 @@
           1,
           0,
           null,
+          1,
+          1,
+          null,
+          1,
+          0,
           null,
           null
         ]
@@ -875,6 +879,42 @@
           1,
           1,
           1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/spec/features/user/add_user_pages_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -988,6 +1028,6 @@
         ]
       }
     },
-    "timestamp": 1616620153
+    "timestamp": 1616625350
   }
 }
