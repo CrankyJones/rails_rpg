@@ -10,13 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_23_220545) do
+ActiveRecord::Schema.define(version: 2021_03_24_170217) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "enemies", force: :cascade do |t|
-    t.string "type"
+    t.string "monster"
     t.integer "attack"
     t.integer "health"
     t.integer "player_id"

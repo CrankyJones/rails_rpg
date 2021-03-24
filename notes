@@ -1,0 +1,8 @@
+gem 'devise'
+gem 'rails_admin', '~> 2.0'
+gem 'rb-readline'
+
+rails g rails_admin:install
+
+rails admin -> config/initializer/rails_admin.rb
+
