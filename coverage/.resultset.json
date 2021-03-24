@@ -15,19 +15,23 @@
           null,
           null,
           null,
+          null,
           1,
           null,
           null,
           null,
           null,
+          1,
           null,
           1,
           1,
           1,
+          null,
           1,
+          null,
           1,
-          1,
-          1,
+          null,
+          null,
           null,
           null
         ]
@@ -762,7 +766,7 @@
           1,
           null,
           1,
-          12,
+          14,
           null,
           null
         ]
@@ -809,10 +813,10 @@
           0,
           null,
           1,
-          1,
+          2,
           null,
           1,
-          0,
+          1,
           null,
           null
         ]
@@ -879,6 +883,47 @@
           1,
           1,
           1,
+          null
+        ]
+      },
+      "C:/Users/assbu/Desktop/rpg/spec/features/location/show_location_pages_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -1028,6 +1073,6 @@
         ]
       }
     },
-    "timestamp": 1616625350
+    "timestamp": 1616627989
   }
 }
